@@ -1,1 +1,1 @@
-script showing hello world
+Shell 1/0 redirections
